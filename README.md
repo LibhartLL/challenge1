@@ -26,8 +26,6 @@ https://github.com/LibhartLL/challenge1
 Contact
 Lindsay Libhart
 https://github.com/LibhartLL
-Libhartinc@gmail.com
 
 June 13, 2023
-
 
