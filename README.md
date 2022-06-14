@@ -23,6 +23,9 @@ Work Completed
 Website Link
 https://github.com/LibhartLL/challenge1
 
+Screenshot:
+<img src="https://user-images.githubusercontent.com/104096647/173672092-732b3df0-58e1-4d85-bf85-06a4771dee27.jpg" width="90%"></img> 
+
 Contact
 Lindsay Libhart
 https://github.com/LibhartLL
